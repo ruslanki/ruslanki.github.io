@@ -1,1 +1,1 @@
-# ruslanki.sk-client.github.io
+# ruslanki.github.io
